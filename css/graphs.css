@@ -1,0 +1,32 @@
+body,
+html {
+  height: 100%;
+}
+
+#usertypeheading {
+  margin-top: 15px;
+  font-size: 9.5px;
+}
+
+.nav-al-lado {
+  display: none;
+}
+
+body {
+  width: 100%;
+}
+
+#canvas-div {
+  margin-left: 25%;
+  align-items: center;
+  max-width: 580px;
+}
+
+.alert {
+  text-align: center;
+}
+
+#myChart {
+  height: 100px;
+  width: 100px;
+}

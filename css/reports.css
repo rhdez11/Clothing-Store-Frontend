@@ -1,0 +1,49 @@
+body,
+html {
+  height: 100%;
+}
+
+#usertypeheading {
+  margin-top: 15px;
+  font-size: 9.5px;
+}
+
+.nav-al-lado {
+  display: none;
+}
+
+body {
+  width: 100%;
+}
+
+table {
+  width: 100%;
+  text-align: center;
+  margin-top: 15px;
+}
+
+#div-tabla-reportes {
+  display: none;
+}
+
+#empty-alert {
+  margin-top: 15px;
+  display: none;
+}
+
+#btn-csv {
+  float: right;
+  border: 0.1px solid black;
+}
+
+#datepicker {
+  float: left;
+}
+
+#btn-ver-reporte {
+  margin-left: 20px;
+}
+
+.alert {
+  text-align: center;
+}

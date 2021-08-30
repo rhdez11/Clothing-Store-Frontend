@@ -1,0 +1,47 @@
+body,
+html {
+  height: 100%;
+}
+
+#usertypeheading {
+  margin-top: 15px;
+  font-size: 9.5px;
+}
+
+.nav-al-lado {
+  display: none;
+}
+
+body {
+  width: 100%;
+}
+
+table {
+  width: 100%;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.editbtn:hover {
+  color: blue;
+}
+
+.rmvbtn:hover {
+  color: red;
+}
+
+#newFName {
+  width: 100%;
+}
+
+#newLName {
+  width: 100%;
+}
+
+#newEmail {
+  width: 100%;
+}
+
+#newPassword {
+  width: 100%;
+}
